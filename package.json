@@ -9,7 +9,7 @@
     "fs": "^0.0.1-security",
     "imap": "^0.8.19",
     "imap-simple": "^5.0.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "puppeteer": "^5.2.1",
     "request": "^2.88.2"
   }
